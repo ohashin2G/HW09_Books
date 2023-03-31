@@ -1,0 +1,9 @@
+README.md
+setup.py
+books/__init__.py
+books/books.py
+books.egg-info/PKG-INFO
+books.egg-info/SOURCES.txt
+books.egg-info/dependency_links.txt
+books.egg-info/top_level.txt
+books.egg-info/.ipynb_checkpoints/SOURCES-checkpoint.txt
